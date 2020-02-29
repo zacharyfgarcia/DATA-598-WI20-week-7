@@ -14,8 +14,8 @@ You can install the released version of Class6 from [CRAN](https://CRAN.R-projec
 install.packages("Class6")
 ```
 
-## Code of conduct
-See 
+## Contributing
+Code of Conduct[https://github.com/zacharyfgarcia/DATA-598-WI20-week-7/blob/master/CODE_OF_CONDUCT.md]
 
 ``` r
 library(Class6)
