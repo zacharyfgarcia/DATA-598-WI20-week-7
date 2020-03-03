@@ -1,4 +1,6 @@
 
+[![R build status](https://github.com/benmarwick/tests/workflows/R-CMD-check/badge.svg)](https://github.com/zacharyfgarcia/)
+
 # Class6
 
 <!-- badges: start -->
