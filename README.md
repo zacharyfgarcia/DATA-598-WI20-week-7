@@ -1,5 +1,5 @@
 
-[![R build status](https://github.com/benmarwick/tests/workflows/R-CMD-check/badge.svg)](https://github.com/zacharyfgarcia/)
+[![R build status](https://github.com/benmarwick/tests/workflows/R-CMD-check/badge.svg)](https://github.com/zacharyfgarcia/DATA-598-WI20-week-7/blob/master/tests/testthat/test-hello.R)
 
 # Class6
 
