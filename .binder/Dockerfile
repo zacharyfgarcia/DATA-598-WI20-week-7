@@ -1,4 +1,4 @@
-holepunch::generate_badge()FROM rocker/binder:3.6.0
+FROM rocker/binder:3.6.0
 LABEL maintainer='Zack Garcia'
 USER root
 COPY . ${HOME}
